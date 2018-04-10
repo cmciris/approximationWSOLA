@@ -1,5 +1,3 @@
-# approximationWSOLA
-
 run main.m
 
 t is the length of the input audio you want.
@@ -15,4 +13,4 @@ t is the length of the input audio you want.
 
 threshold is the threshold of the approximation method
 
-in the audio files is the result audio with Î± = 0.8
+in the audio files is the result audio with ¦Á = 0.8
